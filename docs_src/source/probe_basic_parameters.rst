@@ -65,11 +65,11 @@ Probe Basic Parameters
    * - 3011
      - Tool Setting
      - Persistent
-     - Tool Diameter Offset mode activation
+     - Tool Diameter Probe mode activation (not yet implemented)
    * - 3012
      - Tool Setting
      - Persistent
-     - Tool Diameter Probe mode activation (not yet implemented)
+     - Tool Diameter Offset mode activation
    * - 3013
      - Tool Setting
      - Persistent
